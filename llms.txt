@@ -1,0 +1,44 @@
+# Sendwich
+
+> Sendwich is een lunchbestelplatform met app voor bedrijven, secundaire scholen en basisscholen in België. Werknemers, leerlingen en ouders bestellen en betalen hun middaglunch individueel via de app. Alle bestellingen worden automatisch gebundeld en in één levering bij de organisatie gebracht.
+
+Kernboodschap: individueel bestellen en betalen, één gebundelde levering.
+
+## Hoe het werkt
+
+1. **Beheer**: de organisatie volgt alle bestellingen, betalingen en leveringen op via het Sendwich beheerplatform.
+2. **Bundelen**: elke gebruiker kiest zelf; Sendwich bundelt alle bestellingen automatisch en geeft ze door aan de leverancier.
+3. **Verdelen**: bij de levering trek je met één klik een verdeellijst uit het systeem, per klas, afdeling of locatie. Scannen met een unieke QR-code per bestelling kan optioneel.
+
+## Voor wie
+
+- **Bedrijven**: werknemers bestellen individueel, één levering op het bedrijf, één globale afrekening, geen administratief werk.
+- **Scholen** (secundair en basisonderwijs): geen papieren lunchbestellingen of cash geld meer; de school houdt de controle.
+- **Leveranciers** (broodjeszaken, soep, cateraars van warme maaltijden): gestructureerde bestellingen, overzicht over leveringen, stock en betalingen, en potentieel nieuwe klanten.
+
+## Talen
+
+- [Nederlands](https://sendwich.be/)
+- [Français](https://sendwich.be/fr/)
+- [English](https://sendwich.be/en/)
+
+## Belangrijke pagina's
+
+- [Home](https://sendwich.be/): overzicht en demo-aanvraag
+- [Ons verhaal](https://sendwich.be/over)
+- [Sendwich voor scholen](https://sendwich.be/partners-scholen)
+- [Sendwich voor bedrijven](https://sendwich.be/partners-bedrijven)
+- [Sendwich voor leveranciers](https://sendwich.be/partners-leveranciers)
+- [Nieuws](https://sendwich.be/updates)
+- [Contact](https://sendwich.be/contact)
+
+## Webapp
+
+- [Sendwich webapp](https://go.sendwich.be): bestellen en betalen in de browser op gsm, tablet of computer; niets te installeren.
+
+## Contact
+
+- E-mail: info@sendwich.be
+- Telefoon (Nederlandstalig): +32 468 26 09 90
+- Telefoon (Franstalig): +32 475 27 28 24
+- Ondernemingsnummer: BE 0732.932.196
